@@ -18,4 +18,4 @@ TNIC is available in the following repositories:
 
 [TNIC-sw](https://github.com/TUM-DSE/TNIC-sw.git) which contains the codebases of TNIC applications.
 
-[TNIC-proofs](https://github.com/TUM-DSE/TNIC-sw.git)) which contains the security proofs of TNIC system operations.
+[TNIC-proofs](https://github.com/TUM-DSE/TNIC-proofs.git) which contains the security proofs of TNIC system operations.
