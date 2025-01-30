@@ -10,8 +10,8 @@ You can find more details in our [ASPLOS'25 paper](TBA).
 
 TNIC is available in the following repositories:
 
-[TNIC-hw]([TBA](https://github.com/TUM-DSE/TNIC-hw.git)) which contains the hardware implementation of TNIC.
+[TNIC-hw](https://github.com/TUM-DSE/TNIC-hw.git) which contains the hardware implementation of TNIC.
 
-[TNIC-sw]([TBA](https://github.com/TUM-DSE/TNIC-sw.git)) which contains the codebases of TNIC applications.
+[TNIC-sw](https://github.com/TUM-DSE/TNIC-sw.git) which contains the codebases of TNIC applications.
 
-[TNIC-proofs]([TBA](https://github.com/TUM-DSE/TNIC-sw.git)) which contains the security proofs of TNIC system operations.
+[TNIC-proofs](https://github.com/TUM-DSE/TNIC-sw.git)) which contains the security proofs of TNIC system operations.
