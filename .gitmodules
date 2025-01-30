@@ -4,3 +4,6 @@
 [submodule "TNIC-sw"]
 	path = TNIC-sw
 	url = https://github.com/TUM-DSE/TNIC-sw.git
+[submodule "TNIC-hw"]
+	path = TNIC-hw
+	url = https://github.com/TUM-DSE/TNIC-hw.git
