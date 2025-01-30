@@ -1,3 +1,6 @@
 [submodule "TNIC-proofs"]
 	path = TNIC-proofs
 	url = https://github.com/TUM-DSE/TNIC-proofs.git
+[submodule "TNIC-sw"]
+	path = TNIC-sw
+	url = https://github.com/TUM-DSE/TNIC-sw.git
